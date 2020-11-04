@@ -1,0 +1,64 @@
+#testo{
+    color:limegreen;
+    background-color: honeydew;
+    border-radius: 5mm;
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration-color:green;
+    background:green;
+}
+
+div{
+    background:green;
+    border-radius:50mm;
+    text-align:center;
+}
+
+body{
+     background-image:url(https://i.pinimg.com/originals/36/95/ad/3695add6d4721c50256727ca7e07d7c4.jpg);
+    }
+
+img{
+    border-radius: 7mm;
+}
+
+#batman{
+    color:limegreen;
+}
+
+#fuss{
+    color: mediumseagreen;
+}
+
+h2{
+    color:black;
+    text-decoration-color:green;
+    background:green;
+    border-radius: 4mm;
+    text-align:center;
+}
+
+#lls{
+   color:black;
+    text-decoration-color:green;
+    background:green;
+    border-radius: 4mm;
+    text-align:center;
+}
+
+#bggs{
+    color:limegreen;
+    background-color: honeydew;
+    border-radius: 5mm;
+    text-align: center;
+}
+
+#llbs{
+    color:limegreen;
+    background-color: honeydew;
+    border-radius: 5mm;
+    text-align:left;
+}
